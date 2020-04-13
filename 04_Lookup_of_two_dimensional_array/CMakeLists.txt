@@ -1,0 +1,4 @@
+
+project(04_Lookup_of_two_dimensional_array)
+
+add_executable(04_Lookup_of_two_dimensional_array main.cpp)
