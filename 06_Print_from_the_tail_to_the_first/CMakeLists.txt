@@ -1,0 +1,4 @@
+
+project(06_Print_from_the_tail_to_the_first)
+
+add_executable(06_Print_from_the_tail_to_the_first main.cpp)
