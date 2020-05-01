@@ -1,0 +1,4 @@
+
+project(13_The_Range_of_Motion_of_The_Robot)
+
+add_executable(13_The_Range_of_Motion_of_The_Robot main.cpp)

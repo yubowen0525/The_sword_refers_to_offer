@@ -1,0 +1,4 @@
+
+project(08_The_Next_Node_In_Binary_Tree)
+
+add_executable(08_The_Next_Node_In_Binary_Tree main.cpp)

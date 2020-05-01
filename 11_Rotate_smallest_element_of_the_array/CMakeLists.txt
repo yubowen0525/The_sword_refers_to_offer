@@ -1,0 +1,4 @@
+
+project(11_Rotate_smallest_element_of_the_array)
+
+add_executable(11_Rotate_smallest_element_of_the_array main.cpp)

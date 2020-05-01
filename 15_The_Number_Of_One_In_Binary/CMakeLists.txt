@@ -1,0 +1,4 @@
+
+project(15_The_Number_Of_One_In_Binary)
+
+add_executable(15_The_Number_Of_One_In_Binary main.cpp)

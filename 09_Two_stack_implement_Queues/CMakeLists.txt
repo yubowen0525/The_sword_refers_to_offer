@@ -1,0 +1,4 @@
+
+project(09_Two_stack_implement_Queues)
+
+add_executable(09_Two_stack_implement_Queues main.cpp)

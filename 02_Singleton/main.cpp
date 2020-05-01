@@ -91,7 +91,9 @@ public:
     Singleton_LocalStatic(const Singleton_LocalStatic&)=delete;
     Singleton_LocalStatic& operator=(const Singleton_LocalStatic&)=delete;
     static Singleton_LocalStatic& get_instance(){
-        static Singleton_LocalStatic instance;
+        static Singleton_LocalStatic instance;  //如果已经初始化该语句不执行
+        static int a = 1000;
+        ++a;
         return instance;
 
     }
