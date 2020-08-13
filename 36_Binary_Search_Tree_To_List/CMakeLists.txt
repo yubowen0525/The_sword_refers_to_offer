@@ -1,0 +1,4 @@
+
+project(36_Binary_Search_Tree_To_List)
+
+add_executable(36_Binary_Search_Tree_To_List main.cpp)

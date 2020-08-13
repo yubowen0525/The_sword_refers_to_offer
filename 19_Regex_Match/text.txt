@@ -1,0 +1,2 @@
+str:aaa
+pattern:aa.a    ab*a    ab*aa   a.*     .*      a*aa

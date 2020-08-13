@@ -1,0 +1,4 @@
+
+project(17_Print_n_digits_from_1_to_maximum)
+
+add_executable(17_Print_n_digits_from_1_to_maximum main.cpp)

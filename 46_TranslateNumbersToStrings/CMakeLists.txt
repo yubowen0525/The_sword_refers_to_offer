@@ -1,0 +1,4 @@
+
+project(46_TranslateNumbersToStrings)
+
+add_executable(46_TranslateNumbersToStrings main.cpp)
