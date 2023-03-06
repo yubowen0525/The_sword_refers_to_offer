@@ -1,6 +1,6 @@
 package main
 
-func findRepeatNumber(nums []int) int {
+func FindRepeatNumber(nums []int) int {
 	i := 0
 	for {
 		if i >= len(nums) {
@@ -28,5 +28,5 @@ func findRepeatNumber(nums []int) int {
 
 func main() {
 	nums := []int{2, 3, 1, 0, 2, 5, 3}
-	findRepeatNumber(nums)
+	FindRepeatNumber(nums)
 }
